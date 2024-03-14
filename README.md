@@ -183,7 +183,8 @@ plt.show()
 ![image](https://github.com/MounishT/IMAGE-TRANSFORMATIONS/assets/138955798/22ca08c1-e210-45fd-86b8-b5fa65205820)
 
 ## vi)Image Cropping
-![Uploading image.png…]()
+![image](https://github.com/MounishT/IMAGE-TRANSFORMATIONS/assets/138955798/d9abe5bc-07f8-4eb5-82b4-14be9b3885c8)
+
 
 
 
